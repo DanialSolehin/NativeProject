@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "874232367521",
+    "firebase_url": "https://businesscard-8fd16-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "businesscard-8fd16",
+    "storage_bucket": "businesscard-8fd16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874232367521:android:2c9a1161b604d0bfe423e0",
+        "android_client_info": {
+          "package_name": "com.example.businesscards"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyIcrX4K4e646W-cq3ziSFaAlFAv_TyVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874232367521:android:7db84fcbe72dcceee423e0",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyIcrX4K4e646W-cq3ziSFaAlFAv_TyVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
